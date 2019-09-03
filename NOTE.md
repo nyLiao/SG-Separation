@@ -61,7 +61,26 @@ http://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?ra=159.81542&dec=-0
 *minimum of `width` and `height` is 64px*
 
 #### `HTTP POST` Guide
+[Requests Documentation](https://2.python-requests.org/en/master/api/#requests.get)
 
 
+## Models
+
+[Classifier comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)
+
+[Image Classification using Python and Scikit-learn](https://gogul09.github.io/software/image-classification-python)
+
+### SVM
+[sklearn mnist](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html)
+
+[sklearn face](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py)
+
+[机器学习笔记整理09- 基于SVM图像识别](https://blog.csdn.net/BaiHuaXiu123/article/details/69789020)
+
+### Random Forests
+[Python machine learning: Introduction to image classification](https://blog.hyperiondev.com/index.php/2019/02/18/machine-learning/)
+
+### KNN
+[k-NN classifier for image classification](https://www.pyimagesearch.com/2016/08/08/k-nn-classifier-for-image-classification/)
 
 ## Papers
